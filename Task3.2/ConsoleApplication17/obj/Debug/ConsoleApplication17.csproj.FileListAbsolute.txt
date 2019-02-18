@@ -1,0 +1,9 @@
+c:\users\ataib\documents\visual studio 2015\Projects\ConsoleApplication17\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe.config
+c:\users\ataib\documents\visual studio 2015\Projects\ConsoleApplication17\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe
+c:\users\ataib\documents\visual studio 2015\Projects\ConsoleApplication17\ConsoleApplication17\bin\Debug\ConsoleApplication17.pdb
+c:\users\ataib\documents\visual studio 2015\Projects\ConsoleApplication17\ConsoleApplication17\obj\Debug\ConsoleApplication17.exe
+c:\users\ataib\documents\visual studio 2015\Projects\ConsoleApplication17\ConsoleApplication17\obj\Debug\ConsoleApplication17.pdb
+c:\users\ataib\documents\visual studio 2015\Projects\ConsoleApplication17\ConsoleApplication17\obj\Debug\ConsoleApplication17.csprojResolveAssemblyReference.cache
+C:\Users\ataib\Documents\Visual Studio 2015\Projects\Task3.2\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe.config
+C:\Users\ataib\Documents\Visual Studio 2015\Projects\Task3.2\ConsoleApplication17\obj\Debug\ConsoleApplication17.exe
+C:\Users\ataib\Documents\Visual Studio 2015\Projects\Task3.2\ConsoleApplication17\obj\Debug\ConsoleApplication17.pdb
